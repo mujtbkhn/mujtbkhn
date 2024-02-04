@@ -10,6 +10,8 @@
 - [resume](https://drive.google.com/file/d/1HtVzWiV88OjQhXknzh7iCErVOCs1aBdE/view?usp=drive_link)
 - [mujjukhn538@gmail.com](mailto:mujjukhn538@gmail.com)
 
+![HTML](https://readmebadge.vercel.app/badges/html.svg)
+
 
 <h3 align="left">Tools and Technologies</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/68745052/220549578-a35be6c6-f376-4490-90b4-aa7d62a6ca53.png" alt="javascript" width="40" height="40"/> </a> 
