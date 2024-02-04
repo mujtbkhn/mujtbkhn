@@ -10,8 +10,6 @@
 - [resume](https://drive.google.com/file/d/1HtVzWiV88OjQhXknzh7iCErVOCs1aBdE/view?usp=drive_link)
 - [mujjukhn538@gmail.com](mailto:mujjukhn538@gmail.com)
 
-![HTML](https://readmebadge.vercel.app/badges/html.svg)
-
 <h3 align="left">Tools and Technologies</h3>
 
 ![Javascript](https://readmebadge.vercel.app/badges/javascript.svg)
