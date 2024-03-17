@@ -30,5 +30,4 @@
 
 </p>
 
-![vegeta](https://github.com/mujtbkhn/mujtbkhn/assets/86319200/f70ed268-671c-4b52-8a68-3a5e2f9f34f0)
 
