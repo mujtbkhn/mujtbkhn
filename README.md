@@ -7,7 +7,7 @@
 - ✨ &nbsp;I am a Developer .
 - 🤡 Test me for **React, Javascript, Tailwind, Node/Express (anything related to web development)**
 - 💻 I love creating stuff around web development!
-- [resume](https://drive.google.com/file/d/1QUh4eGbS2T4UuvIUFnJKZXjjqcPqxmXm/view?usp=sharing)
+- [resume](https://drive.google.com/file/d/14qFIqh4gdYs56DO-HZyB-Mqf3qyYHTV9/view?usp=sharing)
 - [mujjukhn538@gmail.com](mailto:mujjukhn538@gmail.com)
 
 <h3 align="left">Tools and Technologies</h3>
