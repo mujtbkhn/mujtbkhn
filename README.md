@@ -9,6 +9,7 @@
 - 💻 I love creating stuff around web development!
 - [resume](https://drive.google.com/file/d/14qFIqh4gdYs56DO-HZyB-Mqf3qyYHTV9/view?usp=sharing)
 - [mujjukhn538@gmail.com](mailto:mujjukhn538@gmail.com)
+- Fun Fact - typeof NaN is a Number!
 
 <h3 align="left">Tools and Technologies</h3>
 
