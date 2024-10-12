@@ -7,7 +7,7 @@
 - ✨ &nbsp;I am a Developer .
 - 🤡 Test me for **React, Javascript, Tailwind, Node/Express (anything related to web development)**
 - 💻 I love creating stuff around web development!
-- [resume]([https://drive.google.com/file/d/14qFIqh4gdYs56DO-HZyB-Mqf3qyYHTV9/view?usp=sharing](https://drive.google.com/file/d/1kMpPYaB-YXx2wePkWkG0X9AMP-Ub2ScG/view?usp=sharing))
+- [resume]([https://drive.google.com/file/d/1kMpPYaB-YXx2wePkWkG0X9AMP-Ub2ScG/view?usp=sharing])
 - [mujjukhn538@gmail.com](mailto:mujjukhn538@gmail.com)
 - Fun Fact - typeof NaN is a Number!
 
